@@ -1,0 +1,49 @@
+{
+  "_from": "git+https://github.com/ayloncarrijo/styled-system__css.git",
+  "_id": "@styled-system/css@5.1.8",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/@styled-system/css",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/ayloncarrijo/styled-system__css.git",
+    "rawSpec": "git+https://github.com/ayloncarrijo/styled-system__css.git",
+    "saveSpec": "git+https://github.com/ayloncarrijo/styled-system__css.git",
+    "fetchSpec": "https://github.com/ayloncarrijo/styled-system__css.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/",
+    "/@styled-system/variant"
+  ],
+  "_resolved": "git+https://github.com/ayloncarrijo/styled-system__css.git#4b3e73df57c4819ca0a5a57a9ce435068939cb87",
+  "_spec": "git+https://github.com/ayloncarrijo/styled-system__css.git",
+  "_where": "C:\\Users\\Aylon\\Desktop\\Aylon\\EVA\\Troca Rápido\\website",
+  "author": {
+    "name": "Brent Jackson",
+    "email": "jxnblk@gmail.com"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Styled System for the `css` prop",
+  "gitHead": "a6feb6009c58f2eb68f0c3120c5672f6cb54294f",
+  "keywords": [
+    "css",
+    "css-in-js",
+    "emotion",
+    "styled-components",
+    "style",
+    "react"
+  ],
+  "license": "MIT",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "name": "@styled-system/css",
+  "publishConfig": {
+    "access": "public"
+  },
+  "sideEffects": false,
+  "version": "5.1.8"
+}
